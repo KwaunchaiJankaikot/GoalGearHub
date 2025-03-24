@@ -1,0 +1,17 @@
+.footer{
+    background-color: #4a4c4c;
+    padding: 100px;
+    text-align: center;
+    color: white;
+    margin-top: 100px;
+    /* border: 1px solid #ffffff; */
+    border-top: 1px solid #ffffff;
+ 
+}
+.footer1  h1{
+    color: #ff0000;
+    text-align: center;
+    font-size: 26px;
+    margin-left: 70px;
+    margin-top: -50px;
+}

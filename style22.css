@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+/*nav.php*/
+
+body {
+    background-color: #4a4c4c;
+    font-family: "Kanit", sans-serif;
+    color: #fff;
+    padding: 0%;
+    margin: 0%;
+    font-size: 16px;
+    overflow: auto;   
+    text-decoration: none;
+
+}
+
+
+
+/* index.php */
+
+/* .colepalmer{
+    height: 400px;
+    width: 320px;
+    position: relative;
+    margin-left: 70px;
+    margin-right: 200px;
+    margin-top: auto;
+    border: 1px solid red;
+    border-radius: 10px;
+    box-shadow: 10px 10px #333333;
+    object-fit: cover;
+    
+ }
+ .chelsea{
+    height: 400px;
+    width: 320px;
+    position: relative;
+    margin-left: left;
+    margin-right: 1px;
+    margin-top: auto;
+    border: 1px solid red;
+    border-radius: 10px;
+    box-shadow: 10px 10px #333333;
+    object-fit: fill;
+ }
+ .ronaldo{
+    height: 400px;
+    width: 320px;
+    position: relative;
+    margin-left: auto;
+    margin-right: 200px;
+    margin-top: auto;
+    border: 1px solid red;
+    border-radius: 10px;    
+    box-shadow: 10px 10px #333333;
+    object-fit: cover;
+ }
+ .textcolepalmer{
+    position: absolute;
+    margin-left: 250px;
+    margin-top: -50px;
+    font-size: 22px;
+    font-style: "Noto Sans JP", sans-serif;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    border-radius: 200px;
+    border-color: red;
+    text-shadow: 2px 2px #727272;
+ }
+ .textronaldo{
+    position: absolute;
+    margin-left: 860px;
+    margin-top: -50px;
+    font-size: 22px;
+    font-style: "Noto Sans JP", sans-serif;
+    color: #ffff;
+    border-radius: 200px;
+    text-shadow: 2px 2px #727272;
+ }
+.textchelsea{
+    position: absolute;
+    margin-left: 1340px;
+    margin-top: -50px;
+    font-size: 22px;
+    font-style: "Noto Sans JP", sans-serif;
+    color: #ffff;
+    text-decoration: none;
+    border-radius: 200px;
+    text-shadow: 2px 2px #727272;
+} */
+
+
+/* .button1{
+    padding: 1rem;
+    margin-top: 5rem;
+    border-radius: 80px;
+    background-color: #ffffff;
+    margin-left: 680px;
+    box-shadow:0 20px 35px #000001e6;
+} */
+/*signin.php */
+
+
+/*sign up .php*/
+
+
+/*filter.php*/
+
+
+
+
+
+/* welcome.php * css อยู่ในของหน้าตัวเอง/
