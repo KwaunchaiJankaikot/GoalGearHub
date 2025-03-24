@@ -1,2 +1,2 @@
 # GoalGearHub
-My final project
+GoalGearHub is an online marketplace dedicated to buying and selling football gear, making it easy and convenient for everyone to trade their football equipment. The platform features a user-friendly and visually appealing interface, allowing buyers to effortlessly browse through a wide range of products. Developed primarily using PHP, HTML, CSS, JavaScript, and SQL, GoalGearHub ensures a smooth and efficient user experience, making football gear trading more accessible and organized. 
